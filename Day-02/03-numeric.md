@@ -1,4 +1,4 @@
-# Numberic Data Type
+# Numeric Data Type
 
 **1. Numeric Data Types in Python (int, float):**
 
